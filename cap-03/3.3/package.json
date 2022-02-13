@@ -1,0 +1,12 @@
+{
+  "name": "3.3",
+  "version": "1.0.0",
+  "description": "Exercise 3.3 from the Node.js Design Patterns Third Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "nropelato",
+  "license": "ISC"
+}
