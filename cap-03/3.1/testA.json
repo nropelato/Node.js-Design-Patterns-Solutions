@@ -1,0 +1,45 @@
+{
+  "_id": "62085d5fa0637c21acdac29e",
+  "index": 0,
+  "guid": "37824b4e-36fe-4ee3-b50b-629c93a92f4c",
+  "isActive": false,
+  "balance": "$2,126.32",
+  "picture": "http://placehold.it/32x32",
+  "age": 30,
+  "eyeColor": "green",
+  "name": "Wilkinson Michael",
+  "gender": "male",
+  "company": "EQUITOX",
+  "email": "wilkinsonmichael@equitox.com",
+  "phone": "+1 (884) 578-3012",
+  "address": "976 Noll Street, National, Hawaii, 7195",
+  "about": "Laboris deserunt consectetur anim minim aute irure sit anim. Elit id anim ut eu magna reprehenderit cillum cillum id est proident. Officia culpa tempor proident pariatur nostrud anim ex do exercitation quis. Adipisicing Lorem eiusmod ea enim esse est velit eiusmod in. Qui in eu quis occaecat mollit id fugiat commodo laboris aliqua et aliquip cillum eu. Magna eiusmod nulla ea commodo duis fugiat elit in eiusmod quis. Ut ipsum ut reprehenderit commodo eu eiusmod aliquip aliqua adipisicing.\r\n",
+  "registered": "2018-09-11T09:04:33 +03:00",
+  "latitude": -33.319043,
+  "longitude": 137.227625,
+  "tags": [
+    "nostrud",
+    "eu",
+    "eu",
+    "nulla",
+    "pariatur",
+    "sit",
+    "eu"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Robin Boyd"
+    },
+    {
+      "id": 1,
+      "name": "Laurie Brennan"
+    },
+    {
+      "id": 2,
+      "name": "Cecilia Gonzalez"
+    }
+  ],
+  "greeting": "Hello, Wilkinson Michael! You have 3 unread messages.",
+  "favoriteFruit": "strawberry"
+}

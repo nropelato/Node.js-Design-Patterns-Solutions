@@ -1,0 +1,45 @@
+{
+  "_id": "62085d5ffc6da6df85a2db24",
+  "index": 1,
+  "guid": "d5b0d442-d4c7-4dff-b051-2c338c2e8cc8",
+  "isActive": false,
+  "balance": "$3,427.46",
+  "picture": "http://placehold.it/32x32",
+  "age": 28,
+  "eyeColor": "brown",
+  "name": "Patrice Stanton",
+  "gender": "female",
+  "company": "PORTALIS",
+  "email": "patricestanton@portalis.com",
+  "phone": "+1 (824) 500-2468",
+  "address": "338 Garden Street, Kohatk, Kansas, 9260",
+  "about": "Proident cupidatat exercitation pariatur sunt occaecat cillum ullamco labore labore. Irure occaecat excepteur dolor cillum eiusmod. Dolor sunt exercitation tempor fugiat qui nulla tempor eu eiusmod aliqua elit deserunt nostrud sit. Sunt ex labore id sit magna eiusmod laborum excepteur consequat.\r\n",
+  "registered": "2018-11-25T12:36:49 +02:00",
+  "latitude": 76.407592,
+  "longitude": 106.812159,
+  "tags": [
+    "incididunt",
+    "voluptate",
+    "excepteur",
+    "veniam",
+    "nulla",
+    "cupidatat",
+    "est"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Neva Hart"
+    },
+    {
+      "id": 1,
+      "name": "Mcknight Joseph"
+    },
+    {
+      "id": 2,
+      "name": "Judith Robertson"
+    }
+  ],
+  "greeting": "Hello, Patrice Stanton! You have 8 unread messages.",
+  "favoriteFruit": "strawberry"
+}
